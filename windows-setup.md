@@ -15,6 +15,11 @@ winget install Mozilla.Firefox.DeveloperEdition
 winget install Microsoft.VisualStudioCode
 ```
 
+### Remote Software (i.e., control another computer over the internet)
+```
+winget install -e --id AnyDeskSoftwareGmbH.AnyDesk 
+```
+
 ## Python Setup
 ```
 winget install Python.Python.3
