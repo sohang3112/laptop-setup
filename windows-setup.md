@@ -20,6 +20,12 @@ winget install Microsoft.VisualStudioCode
 winget install -e --id AnyDeskSoftwareGmbH.AnyDesk 
 ```
 
+### Powershell Setup
+```
+iwr -useb get.scoop.sh | iex    # Install Scoop (Package Manager)
+scoop install pshazz            # Better Powershell Prompt
+```
+
 ## Python Setup
 ```
 winget install Python.Python.3
