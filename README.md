@@ -3,7 +3,7 @@
 ## Windows 10 / 11
 - Git
 - Google Drive Sync
-- Adobe Reader 
+- Adobe Reader  
   **Note:** Adobe Reader comes bundled with Mc Afee Antivirus. I don't need it - so have to uninstall every time after installing Adobe.
 - MS Office (Preferred) , or else an alternative like Google Docs or Libre Office
 - Firefox Developer Edition
