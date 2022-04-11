@@ -21,7 +21,8 @@
   - **Note:** Miniconda is also a viable alternative - it installs just `conda` and some associated core utils.
 - CodeBlocks -> C++
 - Dyalog APL (although [Try APL](tryapl.org) is good enough in most cases.
-
+- Haskell
+   - Install Stack (package manager), PtGhci (better Haskell REPL), IPython (Jupyter Notebook for Haskell).
 
 ## Browser Setup
 Firefox -> Browser Login, show Bookmarks Bar
