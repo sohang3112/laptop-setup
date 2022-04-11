@@ -26,7 +26,7 @@ iwr -useb get.scoop.sh | iex    # Install Scoop (Package Manager)
 scoop install pshazz            # Better Powershell Prompt
 ```
 
-**Note:** Put [profile.ps1](profile.ps1) (in this directory) in the appropriate location (see `$Env:Profile`) for Powershell to load it automatically.
+**Note:** Put [profile.ps1](profile.ps1) (in this directory) in the appropriate location (see `$Env:UserProfile`) for Powershell to load it automatically.
 
 ## Python Setup
 ```
