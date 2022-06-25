@@ -1,5 +1,9 @@
 # Windows 11 Setup 
-### installing latest versions of each package using winget
+### installing latest versions of each package using winget  
+  
+  
+**PS:** Use [Ninite](https://ninite.com/) to automatically install and update these & other software.
+
 
 ## Essential Dev Tools
 ```
