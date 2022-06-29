@@ -1,7 +1,7 @@
 # PC / Laptop Setup
 
 ## Windows 10 / 11
-**PS:** Use [Ninite](https://ninite.com/) to automatically install and update these & other software.
+**PS:** Use [Ninite](https://ninite.com/) to graphically bulk install and update these & other software.
 
 - Git
 - Google Drive Sync
