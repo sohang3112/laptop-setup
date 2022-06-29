@@ -8,6 +8,10 @@
 #      python temp.py     # Doesn't work, because it can't decode UTF 16
 $PSDefaultParameterValues['*:Encoding'] = 'utf8'
 
+# Enable Bash-like Auto-Complete behaviour on pressing Tab
+Set-PSReadlineKeyHandler -Key Tab -Function Complete
+
+
 ########## MISC FUNCTIONS #############
 
 function Search-PyDocs {
@@ -22,4 +26,7 @@ function Search-PyDocs {
 	Start-Process https://docs.python.org/3/search.html?q=$SearchTerm
 }
 
-
+function node { 
+	<# .SYNOPSIS Allow await to be used directly in NodeJS REPL #>
+	node.exe --experimental-repl-await 
+}
